@@ -1,0 +1,2 @@
+# Amazon-Tracker
+This is an Amazon price tracking application that allows you to follow the price of a certain Amazon product, and if the product falls below a specified price, then you will be alerted with an email. The "Username" and "pw" fields are to be filled in with your gmail account information and the password is your password. The application could easily be modified to follow multiple products, and you can also set the time increment that you wish to allow the application to check the product's price.
